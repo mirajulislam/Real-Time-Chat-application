@@ -1,0 +1,4 @@
+open project ... cd chat-ui
+build        ... npm run build
+
+create folder(chat-ui) in tomcat webapps and past build folder all file
