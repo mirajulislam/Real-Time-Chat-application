@@ -13,7 +13,7 @@ import com.example.demo.model.Message;
 
 import java.time.LocalDateTime;
 import java.util.concurrent.ExecutionException;
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://localhost:8080/chat-ui/")
 @RestController
 public class ChatController {
 
